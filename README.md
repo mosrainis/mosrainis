@@ -130,11 +130,10 @@ Senior frontend engineer with **7+ years** building React, Next.js, and TypeScri
 
 </div>
 
-<!-- Contribution snake — enable via .github/workflows/snake.yml (see setup guide) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mosrainis/mosrainis/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mosrainis/mosrainis/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/mosrainis/mosrainis/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mosrainis/mosrainis/main/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mosrainis/mosrainis/main/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/mosrainis/mosrainis/main/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 ---
